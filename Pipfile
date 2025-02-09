@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 django = "*"
+django-environ = "*"
+psycopg = {extras = ["binary"], version = "*"}
 
 [dev-packages]
 
