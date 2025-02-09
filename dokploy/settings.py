@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-j_+ogbs_kcmt#&g+0m&=1k&_#q#fj%ibcwoi+=^e+qlis*z!j7
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["testdokploy-django-uydcgl-138c3b-89-250-75-110.traefik.me"]
+ALLOWED_HOSTS = ["http://testdokploy-django-uydcgl-138c3b-89-250-75-110.traefik.me"]
 
 
 # Application definition
